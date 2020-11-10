@@ -103,7 +103,7 @@
         </div>
         <div class="slider__bullets glide__bullets" data-glide-el="controls[nav]"></div>
       </div>
-    </div>
+    </div><!-- this is a test -->
 
    <?php get_footer();
 
